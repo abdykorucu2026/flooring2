@@ -1,0 +1,55 @@
+[
+  {
+    "name": "LADSON HICKORY NATURAL",
+    "description": "Ladson Hickory Natural showcases the dramatic, contrasting grain and extreme hardness of real hickory wood. The robust engineered core guarantees that the floor won't warp or cup, making it suitable for above or below-grade installations.",
+    "specs": {
+      "Brand": "MSI",
+      "Series Name": "Ladson",
+      "Thickness": "1/2\"",
+      "Width": "6.5\"",
+      "Wood Species": "Hickory",
+      "Finish": "Hand-Scraped"
+    },
+    "image_url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 4.99
+  },
+  {
+    "name": "LADSON HICKORY COGNAC",
+    "description": "The Cognac finish transforms robust hickory into a warm, inviting masterpiece with rich auburn and amber highlights. The hand-scraped texture provides a rustic, lived-in feel while masking everyday wear effortlessly.",
+    "specs": {
+      "Brand": "MSI",
+      "Series Name": "Ladson",
+      "Thickness": "1/2\"",
+      "Width": "6.5\"",
+      "Wood Species": "Hickory",
+      "Finish": "Hand-Scraped Satin"
+    },
+    "image_url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 4.99
+  },
+  {
+    "name": "LADSON MAPLE ESPRESSO",
+    "description": "Ladson Maple Espresso offers an ultra-smooth, dark, and sophisticated look. The tight grain of maple takes the deep espresso stain beautifully, resulting in a luxurious, formal floor perfect for dining rooms and executive offices.",
+    "specs": {
+      "Brand": "MSI",
+      "Series Name": "Ladson",
+      "Thickness": "1/2\"",
+      "Width": "6.5\"",
+      "Wood Species": "Maple",
+      "Finish": "Smooth Gloss"
+    },
+    "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 4.99
+  }
+]

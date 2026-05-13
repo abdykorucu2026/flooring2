@@ -17,8 +17,7 @@
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/akadia-vinyl-flooring-c.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/akadia-vinyl-flooring-b.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/cyrus-2.0-akadia-rs-b.jpg",
-      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/akadia-vinyl-flooring.jpg",
-      "https://cdn.msisurfaces.com/images/colornames/detail/roomvo-light.png"
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/akadia-vinyl-flooring.jpg"
     ],
     "price": 3.89
   },
@@ -38,7 +37,6 @@
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/finely-vinyl-flooring-c.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/prescott-finely-vinyl-flooring-a.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/finely-vinyl-flooring-a.jpg",
-      "https://cdn.msisurfaces.com/images/colornames/detail/roomvo-light.png",
       "https://cdn.msisurfaces.com/images/lvt/lvt-videos/finely-vinyl-flooring-video.jpg"
     ],
     "price": 3.89
@@ -62,7 +60,6 @@
       "https://cdn.msisurfaces.com/images/roomscenes/medium/cyrus-katella-ash-vinyl-flooring-c.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/prescott-katella-ash-vinyl-flooring.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/cyrus-2.0-katella-rs-c.jpg",
-      "https://cdn.msisurfaces.com/images/colornames/detail/roomvo-light.png",
       "https://cdn.msisurfaces.com/images/lvt/lvt-videos/katella-ash-vinyl-flooring-video.jpg"
     ],
     "price": 3.89
@@ -85,7 +82,6 @@
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/sandino-vinyl-flooring-b.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/sandino-vinyl-flooring-c.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/sandino-vinyl-flooring-a.jpg",
-      "https://cdn.msisurfaces.com/images/colornames/detail/roomvo-light.png",
       "https://cdn.msisurfaces.com/images/lvt/lvt-videos/sandino-vinyl-flooring-video.jpg"
     ],
     "price": 3.89
@@ -105,8 +101,7 @@
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/whitfield-gray-vinyl-flooring-a.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/whitfield-gray-vinyl-flooring.jpg",
       "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/cyrus-2.0-whitfield-gray-rs-b.jpg",
-      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/cyrus-2.0-whitfield-gray-rs-c.jpg",
-      "https://cdn.msisurfaces.com/images/colornames/detail/roomvo-light.png"
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/cyrus-2.0-whitfield-gray-rs-c.jpg"
     ],
     "price": 3.89
   },
@@ -123,8 +118,25 @@
     "images": [
       "https://cdn.msisurfaces.com/images/lvt/detail/prescott-woburn-vinyl-plank-flooring.jpg",
       "https://cdn.msisurfaces.com/images/lvt/edge/prescott-woburn-vinyl-plank-flooring-edge.jpg",
-      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/prescott-woburn-vinyl-plank-flooring.jpg",
-      "https://cdn.msisurfaces.com/images/colornames/detail/roomvo-light.png"
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/prescott-woburn-vinyl-plank-flooring.jpg"
+    ],
+    "price": 3.89
+  },
+  {
+    "name": "Prescott® Borealis® Luxury Vinyl Planks",
+    "description": "Borealis luxury vinyl tile flooring features stunning wood-look tones, an easy-install locking system, and a pre-attached backing. Perfect for any room in your home.",
+    "specs": {
+      "Series Name": "Prescott",
+      "Thickness": "6.5MM",
+      "Wear Layer": "20MIL",
+      "Size": "7\" x 48\""
+    },
+    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/prescott-akadia-vinyl-flooring.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/prescott-akadia-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/iso/akadia-prescott-iso.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/akadia-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/akadia-vinyl-flooring-c.jpg"
     ],
     "price": 3.89
   }

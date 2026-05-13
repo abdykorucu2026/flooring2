@@ -1,0 +1,82 @@
+[
+  {
+    "name": "LAMINATE 10MM CLASSIC OAK",
+    "description": "Classic Oak Laminate Flooring brings the timeless beauty of natural oak into your home. With a 10MM thickness and an integrated sound-dampening pad, this laminate is both durable and comfortable underfoot. Perfect for living rooms, bedrooms, and high-traffic areas.",
+    "specs": {
+      "Series Name": "Classic Collection",
+      "Thickness": "10MM",
+      "Wear Layer": "AC4 Rating",
+      "Size": "7\" x 48\""
+    },
+    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/andover-abingdale-vinyl-flooring.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/andover-abingdale-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/andover-abingdale-vinyl-flooring-b.jpg"
+    ],
+    "price": 1.99
+  },
+  {
+    "name": "LAMINATE 10MM RUSTIC PINE",
+    "description": "Rustic Pine Laminate features realistic wood grain textures and a distressed look. The AC4 wear rating ensures it can handle active households with pets and children. It clicks together easily for a fast installation.",
+    "specs": {
+      "Series Name": "Classic Collection",
+      "Thickness": "10MM",
+      "Wear Layer": "AC4 Rating",
+      "Size": "8\" x 48\""
+    },
+    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/blythe-vinyl-flooring.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/blythe-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/blythe-vinyl-flooring.jpg"
+    ],
+    "price": 1.89
+  },
+  {
+    "name": "LAMINATE 12MM PREMIUM HICKORY",
+    "description": "Premium Hickory Laminate offers superior stability and a solid feel with its 12MM thickness. The deep embossing closely mimics real hand-scraped hardwood. Waterproof top coating protects against everyday spills.",
+    "specs": {
+      "Series Name": "Premium Collection",
+      "Thickness": "12MM",
+      "Wear Layer": "AC5 Rating",
+      "Size": "6.5\" x 48\""
+    },
+    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/hatfield-vinyl-flooring.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/hatfield-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/andover-hatfield-living-0617-alt-04.jpg"
+    ],
+    "price": 2.79
+  },
+  {
+    "name": "LAMINATE 12MM MODERN ASH",
+    "description": "Brighten up your space with Modern Ash. This 12MM laminate provides an ultra-realistic matte finish and painted beveled edges for a luxurious look. Highly scratch-resistant and suitable for both residential and light commercial use.",
+    "specs": {
+      "Series Name": "Premium Collection",
+      "Thickness": "12MM",
+      "Wear Layer": "AC5 Rating",
+      "Size": "7\" x 48\""
+    },
+    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/whitby-white-vinyl-flooring.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/whitby-white-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/whitby-white-vinyl-flooring-bedroom-0131.jpg"
+    ],
+    "price": 2.89
+  },
+  {
+    "name": "LAMINATE 12MM URBAN WALNUT",
+    "description": "Urban Walnut combines rich, dark tones with exceptional durability. The 12MM core minimizes hollow sounds when walking, providing a true hardwood experience without the high maintenance.",
+    "specs": {
+      "Series Name": "Premium Collection",
+      "Thickness": "12MM",
+      "Wear Layer": "AC5 Rating",
+      "Size": "7.5\" x 60\""
+    },
+    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/andover-dakworth-vinyl-flooring.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/andover-dakworth-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/andover-dakworth-vinyl-flooring.jpg"
+    ],
+    "price": 2.99
+  }
+]

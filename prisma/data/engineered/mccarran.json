@@ -1,0 +1,54 @@
+[
+  {
+    "name": "MCCARRAN EUROPEAN OAK W CLASSIC",
+    "description": "McCarran European Oak Classic offers the true, natural elegance of wide-plank European oak. With its sophisticated wire-brushed finish and ultra-matte protective wear layer, this engineered wood flooring perfectly balances timeless beauty with modern durability.",
+    "specs": {
+      "Brand": "MSI",
+      "Series Name": "McCarran",
+      "Thickness": "5/8\"",
+      "Width": "7.5\"",
+      "Wood Species": "European Oak",
+      "Finish": "Wire-Brushed Matte"
+    },
+    "image_url": "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 5.89
+  },
+  {
+    "name": "MCCARRAN EUROPEAN OAK SEASIDE",
+    "description": "Inspired by coastal living, the Seaside variant features soft, whitewashed oak tones that brighten up any room. The multi-ply engineered core provides exceptional dimensional stability, allowing installation over various subfloors.",
+    "specs": {
+      "Brand": "MSI",
+      "Series Name": "McCarran",
+      "Thickness": "5/8\"",
+      "Width": "7.5\"",
+      "Wood Species": "European Oak",
+      "Finish": "Whitewashed Matte"
+    },
+    "image_url": "https://images.unsplash.com/photo-1581858326414-f58c70502096?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1581858326414-f58c70502096?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 5.89
+  },
+  {
+    "name": "MCCARRAN EUROPEAN OAK SHADOW",
+    "description": "For those seeking a bolder aesthetic, the Shadow oak presents deep, smoky grey and charcoal hues. The wide 7.5-inch planks make spaces feel larger and more luxurious, ideal for contemporary urban spaces.",
+    "specs": {
+      "Brand": "MSI",
+      "Series Name": "McCarran",
+      "Thickness": "5/8\"",
+      "Width": "7.5\"",
+      "Wood Species": "European Oak",
+      "Finish": "Wire-Brushed Satin"
+    },
+    "image_url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 5.89
+  }
+]

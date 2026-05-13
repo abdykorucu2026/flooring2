@@ -1,0 +1,134 @@
+[
+  {
+    "name": "WICKHAM SOLID ASH NATURAL",
+    "description": "Solid Ash hardwood flooring offers a distinct, prominent grain and exceptional durability. The Natural finish highlights the bright, pale tones of the wood, bringing light and energy into any space. It provides a timeless, traditional feel while remaining highly resistant to impact and wear.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "Ash",
+      "Thickness": "3/4\"",
+      "Width": "4 1/4\"",
+      "Finish": "Semi-Gloss"
+    },
+    "image_url": "https://images.unsplash.com/photo-1581858326414-f58c70502096?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1581858326414-f58c70502096?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 6.50
+  },
+  {
+    "name": "WICKHAM SOLID ASH GRAPHITE",
+    "description": "Ash Graphite combines the bold, sweeping grain of Ash wood with a deep, modern graphite stain. The result is a dramatic, contemporary floor that serves as a stunning anchor for modern interiors, hiding dust and scratches remarkably well.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "Ash",
+      "Thickness": "3/4\"",
+      "Width": "3 1/4\"",
+      "Finish": "Matte"
+    },
+    "image_url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 6.80
+  },
+  {
+    "name": "WICKHAM MAPLE CHAMPAGNE",
+    "description": "Known for its closed, uniform grain and incredible hardness, Maple is a premium choice for solid hardwood flooring. The Champagne stain adds a warm, subtle golden hue that pairs beautifully with both transitional and contemporary designs.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "Maple",
+      "Thickness": "3/4\"",
+      "Width": "5\"",
+      "Finish": "Satin"
+    },
+    "image_url": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 7.20
+  },
+  {
+    "name": "WICKHAM MAPLE TRUFFLE",
+    "description": "Maple Truffle delivers a rich, dark cocoa brown tone over an ultra-smooth maple surface. Its sophisticated and sleek appearance is perfect for elegant dining rooms, libraries, or luxury bedrooms seeking a grounding aesthetic.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "Maple",
+      "Thickness": "3/4\"",
+      "Width": "4 1/4\"",
+      "Finish": "Wire-Brushed"
+    },
+    "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 7.40
+  },
+  {
+    "name": "WICKHAM RED OAK GUNSTOCK",
+    "description": "A true classic in North American homes, Red Oak features a prominent, wavy grain pattern with subtle pink undertones. The Gunstock stain is a warm, medium-brown finish that never goes out of style, offering timeless appeal and immense durability.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "Red Oak",
+      "Thickness": "3/4\"",
+      "Width": "3 1/4\"",
+      "Finish": "Semi-Gloss"
+    },
+    "image_url": "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 5.90
+  },
+  {
+    "name": "WICKHAM RED OAK PROVINCIAL",
+    "description": "The Provincial finish on Red Oak wood brings out deep, earthy brown tones, highlighting the wood's natural character and knots. It's an excellent choice for rustic, farmhouse, or traditional interior design themes.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "Red Oak",
+      "Thickness": "3/4\"",
+      "Width": "4 1/4\"",
+      "Finish": "Matte"
+    },
+    "image_url": "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 6.10
+  },
+  {
+    "name": "WICKHAM WHITE OAK NATURAL",
+    "description": "White Oak Natural is highly sought after for its linear grain, excellent stability, and cool, neutral tones. It is naturally more water-resistant than Red Oak, making it perfect for modern, minimalist, and Scandinavian-inspired spaces.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "White Oak",
+      "Thickness": "3/4\"",
+      "Width": "5\"",
+      "Finish": "Satin"
+    },
+    "image_url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18efc2065?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 8.50
+  },
+  {
+    "name": "WICKHAM WHITE OAK BOURBON",
+    "description": "White Oak Bourbon adds a rich, toasted amber hue to the elegant White Oak grain. The wire-brushed texture gently removes the softer wood, enhancing durability and hiding everyday wear and tear effortlessly.",
+    "specs": {
+      "Brand": "Wickham",
+      "Wood Species": "White Oak",
+      "Thickness": "3/4\"",
+      "Width": "7\"",
+      "Finish": "Wire-Brushed"
+    },
+    "image_url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1000&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "price": 9.20
+  }
+]

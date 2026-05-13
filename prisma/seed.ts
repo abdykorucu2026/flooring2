@@ -126,6 +126,8 @@ async function main() {
     let targetCategoryId = luxuryVinyl.id;
     if (collectionName === "trecento") {
       targetCategoryId = stoneLookTile.id;
+    } else if (collectionName === "wilmont") {
+      targetCategoryId = glueDownVinyl.id;
     }
 
     for (const item of data) {
@@ -155,7 +157,152 @@ async function main() {
     }
     console.log(`${collectionName} products created!`);
   }
+
+  // Seed Laminate Products from JSON files
+  const laminateDir = path.resolve("prisma/data/laminate");
+  if (fs.existsSync(laminateDir)) {
+    const laminateFiles = fs.readdirSync(laminateDir).filter(file => file.endsWith(".json"));
+
+    for (const file of laminateFiles) {
+      const collectionName = file.replace(".json", "");
+      const data = JSON.parse(fs.readFileSync(path.join(laminateDir, file), "utf-8"));
+      
+      // Assign to a laminate subcategory (e.g., 10mm-laminate)
+      const targetCategoryId = laminate10mm.id;
+
+      for (const item of data) {
+        // Assign to 10mm or 12mm based on name
+        let targetCategoryId = laminate10mm.id;
+        if (item.name.includes("12MM")) {
+            targetCategoryId = laminate12mm.id;
+        }
+
+        await prisma.product.create({
+          data: {
+            name: item.name,
+            slug: slugify(item.name),
+            categoryId: targetCategoryId,
+            description: item.description || null,
+            brand: item.brand || "MSI",
+            collection: item.collection || (collectionName.charAt(0).toUpperCase() + collectionName.slice(1)),
+            specs: JSON.stringify(item.specs || {}),
+            images: {
+              create: item.images 
+                ? item.images.map((url: string) => ({ url }))
+                : [{ url: item.image_url }]
+            },
+            variants: {
+              create: [{
+                price: item.price || 2.49,
+                sku: item.sku || (slugify(item.name) + "-default"),
+                stock: 1000
+              }]
+            }
+          }
+        });
+      }
+      console.log(`${collectionName} (Laminate) products created!`);
+    }
+  }
+
+  // Seed Hardwood Products from JSON files
+  const hardwoodDir = path.resolve("prisma/data/hardwood");
+  if (fs.existsSync(hardwoodDir)) {
+    const hardwoodFiles = fs.readdirSync(hardwoodDir).filter(file => file.endsWith(".json"));
+
+    for (const file of hardwoodFiles) {
+      const collectionName = file.replace(".json", "");
+      const data = JSON.parse(fs.readFileSync(path.join(hardwoodDir, file), "utf-8"));
+      
+      for (const item of data) {
+        // Assign to Ash, Maple, Red Oak, or White Oak based on name
+        let targetCategoryId = hardwood.id;
+        if (item.name.includes("ASH")) {
+            targetCategoryId = ash.id;
+        } else if (item.name.includes("MAPLE")) {
+            targetCategoryId = maple.id;
+        } else if (item.name.includes("RED OAK")) {
+            targetCategoryId = redOak.id;
+        } else if (item.name.includes("WHITE OAK")) {
+            targetCategoryId = whiteOak.id;
+        }
+
+        await prisma.product.create({
+          data: {
+            name: item.name,
+            slug: slugify(item.name),
+            categoryId: targetCategoryId,
+            description: item.description || null,
+            brand: item.brand || "Wickham",
+            collection: item.collection || (collectionName.charAt(0).toUpperCase() + collectionName.slice(1)),
+            specs: JSON.stringify(item.specs || {}),
+            images: {
+              create: item.images 
+                ? item.images.map((url: string) => ({ url }))
+                : [{ url: item.image_url }]
+            },
+            variants: {
+              create: [{
+                price: item.price || 5.99,
+                sku: item.sku || (slugify(item.name) + "-default"),
+                stock: 500
+              }]
+            }
+          }
+        });
+      }
+      console.log(`${collectionName} (Hardwood) products created!`);
+    }
+  }
+
+  // Seed Engineered Wood Products from JSON files
+  const engineeredDir = path.resolve("prisma/data/engineered");
+  if (fs.existsSync(engineeredDir)) {
+    const engineeredFiles = fs.readdirSync(engineeredDir).filter(file => file.endsWith(".json"));
+
+    for (const file of engineeredFiles) {
+      const collectionName = file.replace(".json", "");
+      const data = JSON.parse(fs.readFileSync(path.join(engineeredDir, file), "utf-8"));
+      
+      for (const item of data) {
+        let targetCategoryId = engineered.id;
+        if (collectionName === "mccarran" || item.name.toLowerCase().includes("mccarran")) {
+            targetCategoryId = mccarran.id;
+        } else if (collectionName === "ladson" || item.name.toLowerCase().includes("ladson")) {
+            targetCategoryId = ladson.id;
+        }
+
+        await prisma.product.create({
+          data: {
+            name: item.name,
+            slug: slugify(item.name),
+            categoryId: targetCategoryId,
+            description: item.description || null,
+            brand: item.brand || "MSI",
+            collection: item.collection || (collectionName.charAt(0).toUpperCase() + collectionName.slice(1)),
+            specs: JSON.stringify(item.specs || {}),
+            images: {
+              create: item.images 
+                ? item.images.map((url: string) => ({ url }))
+                : [{ url: item.image_url }]
+            },
+            variants: {
+              create: [{
+                price: item.price || 4.99,
+                sku: item.sku || (slugify(item.name) + "-default"),
+                stock: 500
+              }]
+            }
+          }
+        });
+      }
+      console.log(`${collectionName} (Engineered Wood) products created!`);
+    }
+  }
 }
+
+
+
 
 main()
   .catch((e) => {
