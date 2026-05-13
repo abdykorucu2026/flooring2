@@ -1,161 +1,297 @@
 [
   {
-    "name": "Trecento Calacatta Legend",
+    "name": "Trecento® Calacatta Legend® Luxury Vinyl Tile",
+    "description": "Calacatta Legend Luxury Vinyl Tile uses gray veining against a bright white backdrop to create a waterproof vinyl flooring with an on-trend natural stone look.",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-legend-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE",
-      "finish": "PietraTech",
-      "waterproof": true
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-legend-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/lvt-videos/calacatta-legend-trecento-vinyl-flooring-video.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/calcatta-legend-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/calcatta-legend-vinyl-flooring-b.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Calacatta Marbello",
+    "name": "Trecento® Calacatta Marbello® Luxury Vinyl Tile",
+    "description": "Calacatta Marbello LVT offers the elegance of natural stone in an affordable, easy-care, 100% waterproof luxury vinyl tile. ",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-marbella-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE",
-      "finish": "PietraTech"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-marbella-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/iso/calcatta-marbella-vinyl-flooring-iso.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/calcatta-marbella-vinyl-flooring-video-a.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/calcatta-marbella-vinyl-flooring-video.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/calcatta-marbella-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/calcatta-marbella-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/calcatta-marbella-vinyl-flooring-c.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/calcatta-marbella-vinyl-flooring-d.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Calacatta Serra",
+    "name": "Trecento® Calacatta Serra® Luxury Vinyl Tile",
+    "description": "Calacatta Serra Luxury Vinyl Tile features subtle gray veins against a white background. This waterproof vinyl flooring is scratch, stain, and dent resistant.",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-serra-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-serra-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/calcatta-serra-vinyl-flooring-video.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/calcatta-serra-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/calcatta-serra-vinyl-flooring-b.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Calacatta Venosa Gold",
+    "name": "Trecento® Calacatta Venosa Gold® Luxury Vinyl Tile",
+    "description": "Calacatta Venosa Gold Luxury Vinyl Tile features a bright white background with thick golden veining. This waterproof vinyl flooring works well indoors. ",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-venosa-gold-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/calcatta-venosa-gold-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/calcatta-venosa-gold-vinyl-flooring-video-a.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/iso/calacatta-venosa-gold-trecento-iso.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/edge/calacatta-venosa-gold-trecento-edge.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/calcatta-venosa-gold-luxury-vinyl-flooring-commercial-0209.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/calcatta-venosa-gold-vinyl-flooring-b.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/calacatta-venosa-gold-trecento-room-scene-bathroom-0416-alt-01.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Carrara Avell",
+    "name": "Trecento® Carrara Avell® Luxury Vinyl Tile",
+    "description": "Carrara Avell Luxury Vinyl Tile features a cool white background laced with silvery gray veins. This waterproof vinyl flooring emulates smooth polished marble.",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/carrara-avell-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/carrara-avell-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/carrara-avell-vinyl-flooring-video-a.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/carrara-avell-vinyl-flooring-video.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/carrara-avell-vinyl-flooring-a.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Ivorelle",
-    "image_url": "https://cdn.msisurfaces.com/images/colornames/detail/ivorelle-trecento.jpg",
-    "price": 3.99,
+    "name": "Trecento® Ivorelle  Luxury Vinyl Tile",
+    "description": "Trecento® Ivorelle Luxury Vinyl Tile - MSI Surfaces",
     "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
     },
+    "image_url": "https://cdn.msisurfaces.com/images/colornames/ivorelle-trecento.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/colornames/ivorelle-trecento.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/iso/ivorelle-trecento-iso.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/edge/ivorelle-trecento-edge.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-trecento-room-scene-bathroom-1202.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-trecento-room-scene-bathroom-1203.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-trecento-room-scene-commercial-0320.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-trecento-room-scene-entryway-0330.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-trecento-room-scene-kitchen-1637.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-trecento-room-scene-kitchen-1638.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-trecento-room-scene-living-1446.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/ivorelle-luxury-vinyl-tile-vtrivorel12x24-5mm-12mil_rsp_1.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Mountains Gray",
+    "name": "Trecento® Mountains Gray® Luxury Vinyl Tile",
+    "description": "With its subtle clouds of grey and griege tones, Mountains Gray luxury vinyl tile creates sense of sophistication that’s always on trend.",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/mountains-gray-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/mountains-gray-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/iso/mountains-gray-vinyl-flooring-iso.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/edge/mountains-gray-vinyl-flooring-edge.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/mountains-gray-vinyl-flooring-video-a.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/mountains-gray-vinyl-flooring-video-b.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/mountains-gray-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/mountains-gray-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/mountains-gray-vinyl-flooring-b.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/mountains-gray-vinyl-flooring-c.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/mountains-gray-vinyl-flooring-d.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/mountains-gray-vinyl-flooring-e.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Quarzo Taj",
+    "name": "Trecento® Quarzo Taj® Luxury Vinyl Tile",
+    "description": "Quarzo Taj Luxury Vinyl Tile features an ivory backdrop and soft gray veining. This waterproof vinyl flooring is ideal for living rooms, bathrooms, and beyond. ",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/quarzo-taj-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/quarzo-taj-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/quarzo-taj-vinyl-flooring-video-a.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/lvt-videos/quarzo-taj-vinyl-flooring-video.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/quarzo-taj-vinyl-tile-commercial-0212.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/quarzo-taj-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/quarzo-taj-vinyl-flooring-b.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Stormbound",
-    "image_url": "https://cdn.msisurfaces.com/images/colornames/detail/stormbound-trecento.jpg",
-    "price": 3.99,
+    "name": "Trecento® Stormbound Luxury Vinyl Tile",
+    "description": "Trecento® Stormbound Luxury Vinyl Tile ",
     "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
     },
+    "image_url": "https://cdn.msisurfaces.com/images/colornames/stormbound-trecento.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/colornames/stormbound-trecento.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/iso/stormbound-trecento-iso.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/edge/stormbound-trecento-edge.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-trecento-room-scene-bathroom-0411-alt-06.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-trecento-room-scene-bathroom-1204.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-trecento-room-scene-commercial-0321.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-trecento-room-scene-entryway-0321.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-trecento-room-scene-kitchen-1414-alt-01.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-trecento-room-scene-kitchen-1639.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-trecento-room-scene-living-1447.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/stormbound-luxury-vinyl-tile-vtrstobou12x24-5mm-12mil_rsp_1.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento White Ocean",
+    "name": "Trecento® White Ocean® Luxury Vinyl Tile",
+    "description": "From the main living area to the master bath, this kid and pet proof White Ocean luxury vinyl tile stands up to heavy traffic. ",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/white-ocean-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/white-ocean-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/iso/white-ocean-vinyl-flooring-iso.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/white-ocean-vinyl-flooring-video-a.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/white-ocean-luxury-vinyl-flooring-commercial0211.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/white-ocean-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/white-ocean-vinyl-flooring-b.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Windsor Crest",
+    "name": "Windsor Crest® Luxury Vinyl Tile",
+    "description": "Windsor Crest Luxury Vinyl Tile features bold black and white floral patterns. Create a stunning kitchen or bathroom with this waterproof vinyl flooring.",
+    "specs": {
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
+    },
     "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/windsor-crest-trecento-vinyl-flooring.jpg",
-    "price": 3.99,
-    "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
-    },
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/windsor-crest-trecento-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/colornames/videos/windsor-crest-trecento-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/roomscenes/medium/windsor-crest-trecento-vinyl-flooring.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   },
   {
-    "name": "Trecento Windsor Isle",
-    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/windsor-isle-trecento-vinyl-flooring.jpg",
-    "price": 3.99,
+    "name": "Windsor Isle® Luxury Vinyl Tile",
+    "description": "Windsor Isle Luxury Vinyl Tile features an eclectic mix of ivory, gray, black, and white floral patterns. Wow your guests with this waterproof vinyl flooring.",
     "specs": {
-      "dimensions": "12\" x 24\"",
-      "thickness": "5mm",
-      "wear_layer": "12 mil",
-      "backing": "1mm IXPE"
+      "Series Name": "Trecento",
+      "Thickness": "5MM",
+      "Wear Layer": "12MIL",
+      "Size": "12\" x 24\"",
+      "Finish": "PietraTech",
+      "Backing": "1MM IXPE"
     },
+    "image_url": "https://cdn.msisurfaces.com/images/lvt/detail/windsor-isle-trecento-vinyl-flooring.jpg",
+    "images": [
+      "https://cdn.msisurfaces.com/images/lvt/detail/windsor-isle-trecento-vinyl-flooring.jpg",
+      "https://cdn.msisurfaces.com/images/lvt/lvt-videos/windsor-isle-trecento-vinyl-flooring-video.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/windsor-isle-trecento-vinyl-flooring-a.jpg",
+      "https://cdn.msisurfaces.com/images/roomscenes/medium/windsor-isle-trecento-vinyl-flooring-b.jpg"
+    ],
     "brand": "MSI",
-    "collection": "Trecento"
+    "collection": "Trecento",
+    "price": 3.99
   }
 ]
