@@ -28,9 +28,10 @@
       "Wood Species": "European Oak",
       "Finish": "Whitewashed Matte"
     },
-    "image_url": "https://images.unsplash.com/photo-1581858326414-f58c70502096?q=80&w=1000&auto=format&fit=crop",
+    "image_url": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1000&auto=format&fit=crop",
     "images": [
-      "https://images.unsplash.com/photo-1581858326414-f58c70502096?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?q=80&w=1000&auto=format&fit=crop"
     ],
     "price": 5.89
   },
